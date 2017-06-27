@@ -1,4 +1,4 @@
-#About R script
+##About R script
 This repo contains files relating to the peer assessment project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
         1.	Download the dataset if it does not already exist in the working directory
         2.	Load the activity and feature info
@@ -10,6 +10,6 @@ This repo contains files relating to the peer assessment project for the Getting
 
 The end result is shown in the file tidy.txt
 
-#About source data
+##About source data
 This project is centrally concerned with downloading, combining and tidying data sets sourced from the following study:  Human Activity Recognition Using Smartphones Data Set. A full description of this study is available from the project’s website: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 The data collected I this study was taken from wearable devices that recorded participant motion as they performed six physical activities. Links to the data sources used in this analysis can be found here:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
